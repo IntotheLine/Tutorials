@@ -1,0 +1,5 @@
+#if / else examples
+
+name = "alice"
+if name = " alice"
+print("done")
